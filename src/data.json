@@ -1,0 +1,13 @@
+[
+    {
+      "username": "admin",
+      "email": "admin@delhirasoi.com",
+      "password": "Admin"
+    },
+    {
+      "username": "user1",
+      "email": "user1@delhirasoi.com",
+      "password": "password123"
+    }
+  ]
+  
